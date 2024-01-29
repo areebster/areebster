@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @areebster
+- 👀 I’m interested in enhancing my SQL skills to be able to extract and analyze data 
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on projects that can aid me in gaining a pragmatic understanding of the ins and outs 
+- 📫 How to reach me: irshadareeb1@gmail.com
